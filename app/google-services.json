@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378913157138",
+    "project_id": "adbase-4bdda",
+    "storage_bucket": "adbase-4bdda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378913157138:android:c6136eb02449d48bc968cb",
+        "android_client_info": {
+          "package_name": "com.adbase.gly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBN2ETlhauOtHEKEipDlcGdUEnN-5asCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
